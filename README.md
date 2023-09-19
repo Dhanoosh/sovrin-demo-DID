@@ -24,3 +24,6 @@ Replace the placeholder path in the code (`"/path/to/your/private_genesis.txn"`)
 ## Usage
 
 After setting up, run the provided Python script to demonstrate the creation of a DID using Sovrin within the PEMT-CoSim environment.
+
+## Source
+This code is adapted from the [Hyperledger Indy SDK documentation](https://github.com/hyperledger/indy-sdk)
